@@ -1,0 +1,26 @@
+{
+  "name": "Elite Royal Lounge",
+  "short_name": "Elite",
+  "description": "Elite Royal Lounge: Understated luxury on a private shore",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#eef4f2",
+  "theme_color": "#0e6b6b",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
